@@ -1,0 +1,3 @@
+# COPY AND PAST BELOW COMMAND IN COMMAND PROMPT
+
+pip install -r requirements.txt
