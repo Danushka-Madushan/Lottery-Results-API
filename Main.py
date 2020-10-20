@@ -1,8 +1,8 @@
 from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup
 import urllib.request
-from mechanize import Browser
 from sys import exit
+from mechanize import Browser
 from msvcrt import getch as Pause
 import time
 import sys
